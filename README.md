@@ -143,9 +143,7 @@ body
 <body>
 <ul>
 
-<li>< a href="file:///C:/Users/Lenovo/Desktop/%E7%9A%84%E8%BA%AB%E9%AB%98%E5%92%8C%E9%87%8D%E5%A4%8D%E5%88%9B%E5%BB%BA%E6%88%96%E8%80%85v%E4%BC%A0%E6%95%99%E5%A3%AB.html">pepper</ a></li>
-<li>< a href="file:///C:/Users/Lenovo/Desktop/%E8%8A%B1%E6%A4%92.html">chilli </ a></li>
-   
+
 </ul>
 
 
